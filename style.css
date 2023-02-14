@@ -58,10 +58,9 @@ form span{
     margin-right: 55px;
 }
 
-#lable{
+.lable{
     display: block;
-    margin-top: 25px;
-    margin-bottom: 5px;
+    margin-bottom: 9px;
 }
 select{
     width: 305px;
